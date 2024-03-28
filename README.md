@@ -1,5 +1,5 @@
 ## MAIL
-```
+
  ### RACCOLTA DATI
  - chiedere all'utente la sua mail
 
@@ -9,7 +9,7 @@
 ### OUTPUT
 - stampare un messaggio appropriato sull'esito del controllo
 
-````
+
 
 ## DADI
 
